@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="radiobg_press">#43859d</color>
+    <color name="radiobg_normal">#555555</color>
+    
+    <color name="yijian_survey_text_select">#00DCC4</color>
+    <color name="yijian_survey_text_normal">#FFFFFF</color>
+    
+     <color name="btntextcolor">#ff1E90FF</color><!--dialog中按钮字体颜色 -->
+
+
+
+
+    <color name="dark_gray">#FF343535</color>
+    <color name="text_gray">#FF999999</color>
+    <color name="photo_mask">#88000000</color>
+    <color name="separation">#FFDCDCDC</color>
+    <color name="text_black">#FF333333</color>
+
+
+    <color name="lightGray">#BFBFBF</color>
+    <color name="unfocused">#cccccccc</color>
+    <color name="pressed">#fff22fff</color>
+    <color name="selected">#fff33fff</color>
+    <color name="focused">#ffff44ff</color>
+
+
+
+
+    <color name="frag_more_name_text">#ff7b7b7b</color>
+
+    <color name="colorPrimary">#e35b5a</color>
+
+    <color name="background_tab_pressed">#6633B5E5</color>
+</resources>
