@@ -1,4 +1,2 @@
 # AndroidDemo
-项目demo各种Lib
-
-平时搜集各种开源库
+工欲善其事必先利其器
