@@ -1,5 +1,5 @@
 # AndroidDemo
-重整思绪，增其文道，收古今中外名作于囊中。属予作文以记之
+重整思绪，增其文道，收古今中外名作于囊中，属予作文以记之。
 
 * MVVM开发库：https://github.com/goldze/MVVMHabit
 * 360性能监控：https://github.com/Qihoo360/ArgusAPM
