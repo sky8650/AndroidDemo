@@ -1,5 +1,4 @@
 # AndroidDemo
-最好的博客以及最高质量的轮子
 重整思绪，增其文道，收古今中外名作于囊中。属予作文以记之
 
 * MVVM开发库：https://github.com/goldze/MVVMHabit
