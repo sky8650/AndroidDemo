@@ -7,6 +7,7 @@
 * 基于腾讯内核的超级浏览器：https://github.com/tbruyelle/RxPermissions
 * 大厂OPPO面试：http://www.apkbus.com/blog-868373-79264.html
 * 高仿猫眼MaterialDesign的app：https://github.com/Cicinnus0407/CatEye
+* 谷歌官方的Material Design颜色值：https://github.com/zzhoujay/MaterialDesignColor
 
 
 
