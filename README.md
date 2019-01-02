@@ -6,6 +6,7 @@
 * Rxjava的运行时权限：https://github.com/tbruyelle/RxPermissions
 * 基于腾讯内核的超级浏览器：https://github.com/tbruyelle/RxPermissions
 * 大厂OPPO面试：http://www.apkbus.com/blog-868373-79264.html
+* 高仿猫眼MaterialDesign的app：https://github.com/Cicinnus0407/CatEye
 
 
 
