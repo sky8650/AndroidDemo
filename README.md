@@ -6,6 +6,8 @@
 ### 博客：
 * Activity启动详解：https://juejin.im/post/596c0d5ff265da6c2211b748
 * 大厂OPPO面试：http://www.apkbus.com/blog-868373-79264.html
+* HashMap的原理解读：https://blog.csdn.net/justloveyou_/article/details/71713781
+* Rxjava原理基本解读：https://www.jianshu.com/p/88aacbed8aa5?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin
 
 
 ### 源码
