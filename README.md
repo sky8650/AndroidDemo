@@ -8,6 +8,7 @@
 * 大厂OPPO面试：http://www.apkbus.com/blog-868373-79264.html
 * HashMap的原理解读：https://blog.csdn.net/justloveyou_/article/details/71713781
 * Rxjava原理基本解读：https://www.jianshu.com/p/88aacbed8aa5?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin
+* Handler原理解析：https://blog.csdn.net/qq_30379689/article/details/53394061
 
 
 ### 源码
