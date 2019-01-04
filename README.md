@@ -17,6 +17,7 @@
 * 基于腾讯内核的超级浏览器：https://github.com/tbruyelle/RxPermissions
 * 高仿猫眼MaterialDesign的app：https://github.com/Cicinnus0407/CatEye
 * 谷歌官方的Material Design颜色值：https://github.com/zzhoujay/MaterialDesignColor
+* MVP经典demo：https://github.com/Cicinnus0407/CatEye
 
 
 
