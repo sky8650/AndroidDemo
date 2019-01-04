@@ -9,6 +9,13 @@
 * HashMap的原理解读：https://blog.csdn.net/justloveyou_/article/details/71713781
 * Rxjava原理基本解读：https://www.jianshu.com/p/88aacbed8aa5?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin
 * Handler原理解析：https://blog.csdn.net/qq_30379689/article/details/53394061
+* Android Binder跨进程通信的原理：https://www.jianshu.com/p/4ee3fd07da14?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin
+* Rxjava基本原理解析： https://www.jianshu.com/p/88aacbed8aa5?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin
+* 面试参考：https://github.com/Blankj/AndroidOfferKiller
+* 从技术转管理： https://mp.weixin.qq.com/s/4fOlTY9Fkb2Od3hVH8yYmw
+* 深入分析Java ClassLoader原理： https://blog.csdn.net/xyang81/article/details/7292380
+* Android内存常用优化解决方案： https://blog.csdn.net/hewence1/article/details/39004301
+
 
 
 ### 源码
