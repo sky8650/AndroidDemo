@@ -18,6 +18,7 @@
 * 高仿猫眼MaterialDesign的app：https://github.com/Cicinnus0407/CatEye
 * 谷歌官方的Material Design颜色值：https://github.com/zzhoujay/MaterialDesignColor
 * MVP经典demo：https://github.com/Cicinnus0407/CatEye
+* 非侵入式的上拉加载和下拉刷新:https://github.com/scwang90/SmartRefreshLayout
 
 
 
