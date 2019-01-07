@@ -27,6 +27,7 @@
 * 谷歌官方的Material Design颜色值：https://github.com/zzhoujay/MaterialDesignColor
 * MVP经典demo：https://github.com/Cicinnus0407/CatEye
 * 非侵入式的上拉加载和下拉刷新:https://github.com/scwang90/SmartRefreshLayout
+* 扩展性很强的Adapter：https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 
 
 
