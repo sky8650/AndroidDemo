@@ -31,6 +31,7 @@
 * 非侵入式的上拉加载和下拉刷新:https://github.com/scwang90/SmartRefreshLayout
 * 扩展性很强的Adapter：https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 * JsBridge库（仿猫眼电影中有相同的封装）：https://github.com/lzyzsd/JsBridge
+* 图片压缩库(MVVM中有对应的封装)：https://github.com/Curzibn/Luban
 
 
 
