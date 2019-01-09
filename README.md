@@ -29,7 +29,7 @@
 * MVP经典demo：https://github.com/Cicinnus0407/CatEye
 * 非侵入式的上拉加载和下拉刷新:https://github.com/scwang90/SmartRefreshLayout
 * 扩展性很强的Adapter：https://github.com/CymChad/BaseRecyclerViewAdapterHelper
-* JsBridge库：https://github.com/lzyzsd/JsBridge（仿猫眼电影中有相同的封装）
+* JsBridge库（仿猫眼电影中有相同的封装）：https://github.com/lzyzsd/JsBridge
 
 
 
