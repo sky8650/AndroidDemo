@@ -15,6 +15,7 @@
 * 从技术转管理： https://mp.weixin.qq.com/s/4fOlTY9Fkb2Od3hVH8yYmw
 * 深入分析Java ClassLoader原理： https://blog.csdn.net/xyang81/article/details/7292380
 * Android内存常用优化解决方案： https://blog.csdn.net/hewence1/article/details/39004301
+* Java常用的数据结构和算法：https://cloud.tencent.com/developer/article/1013268
 
 
 
