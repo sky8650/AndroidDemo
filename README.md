@@ -32,6 +32,7 @@
 * 扩展性很强的Adapter(仿猫眼中有应用)：https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 * JsBridge库（仿猫眼电影中有相同的封装）：https://github.com/lzyzsd/JsBridge
 * 图片压缩库(MVVM中有对应的封装)：https://github.com/Curzibn/Luban
+* 仿今日头条（对于多布局，多viewpager和视频的加载）：https://github.com/chaychan/TouTiao
 
 
 
