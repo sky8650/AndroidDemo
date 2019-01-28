@@ -17,6 +17,8 @@
 * Android内存常用优化解决方案： https://blog.csdn.net/hewence1/article/details/39004301
 * Java常用的数据结构和算法：https://cloud.tencent.com/developer/article/1013268
 * 面试之路（很真实了）： https://www.jianshu.com/p/57ba1ed23c49
+* 免费的计算机编程类书籍（各种都有）： https://github.com/justjavac/free-programming-books-zh_CN
+* Android开发工具下载（应有尽有）：https://github.com/inferjay/AndroidDevTools
 
 
 
@@ -33,6 +35,7 @@
 * JsBridge库（仿猫眼电影中有相同的封装）：https://github.com/lzyzsd/JsBridge
 * 图片压缩库(MVVM中有对应的封装)：https://github.com/Curzibn/Luban
 * 仿今日头条（对于多布局，多viewpager和视频的加载）：https://github.com/chaychan/TouTiao
+* 多图片选择器： https://github.com/LuckSiege/PictureSelector
 
 
 
