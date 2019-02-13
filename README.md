@@ -19,6 +19,7 @@
 * 面试之路（很真实了）： https://www.jianshu.com/p/57ba1ed23c49
 * 免费的计算机编程类书籍（各种都有）： https://github.com/justjavac/free-programming-books-zh_CN
 * Android开发工具下载（应有尽有）：https://github.com/inferjay/AndroidDevTools
+* Android开发最新所有框架总结： https://blog.csdn.net/xuwenxin22/article/details/86241752
 
 
 
