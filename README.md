@@ -37,6 +37,7 @@
 * 图片压缩库(MVVM中有对应的封装)：https://github.com/Curzibn/Luban
 * 仿今日头条（对于多布局，多viewpager和视频的加载）：https://github.com/chaychan/TouTiao
 * 多图片选择器： https://github.com/LuckSiege/PictureSelector
+* 超级文本样式库： https://github.com/chenBingX/SuperTextView  ；    https://github.com/lygttpod/SuperTextView
 
 
 
