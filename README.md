@@ -40,6 +40,7 @@
 * 多图片选择器： https://github.com/LuckSiege/PictureSelector
 * 超级文本样式库： https://github.com/chenBingX/SuperTextView  ；    https://github.com/lygttpod/SuperTextView
 * 自定义View实例：https://github.com/lygttpod/AndroidCustomView
+* 各种工具类（名下博文都是精品）： https://github.com/Blankj/AndroidUtilCode/blob/master/utilcode/lib/src/main/java/com/blankj/utilcode/util/ActivityUtils.java
 
 
 
