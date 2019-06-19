@@ -51,6 +51,7 @@
 * 功能强大，UI简洁，交互优雅的通用弹窗！可以替代Dialog，PopupWindow，PopupMenu，BottomSheet，DrawerLayout，Spinner等组件：https://github.com/li-xiaojun/XPopup
 * Flutter开发学习教程（包括RN，Kotlin）https://github.com/CarGuo/GSYGithubAppFlutter
 * Flutter开发案例包括各种布局（心得）https://github.com/simplezhli/flutter_deer
+* Flutter开发仿淘宝客户端：https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter
 
 
 
