@@ -52,7 +52,7 @@
 * Flutter开发学习教程（包括RN，Kotlin）https://github.com/CarGuo/GSYGithubAppFlutter
 * Flutter开发案例包括各种布局（心得）https://github.com/simplezhli/flutter_deer
 * Flutter开发仿淘宝客户端：https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter
-- [标签控件 chip系列](https://github.com/OpenFlutter/Flutter-Notebook/tree/master/mecury_project/example/chip_demo)
+- [flutter相关功能demo的集合，各种优秀的样例](https://github.com/OpenFlutter/Flutter-Notebook)
 
 
 
