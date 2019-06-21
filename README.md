@@ -53,6 +53,7 @@
 * Flutter开发案例包括各种布局（心得）https://github.com/simplezhli/flutter_deer
 * Flutter开发仿淘宝客户端：https://github.com/GanZhiXiong/GZXTaoBaoAppFlutter
 - [flutter相关功能demo的集合，各种优秀的样例](https://github.com/OpenFlutter/Flutter-Notebook)
+- [正在成为史上最全分类 Android 开源大全，各种都有](https://github.com/OpenFlutter/Flutter-Notebook)
 
 
 
