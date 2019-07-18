@@ -55,6 +55,7 @@
 - [flutter相关功能demo的集合，各种优秀的样例](https://github.com/OpenFlutter/Flutter-Notebook)
 - [正在成为史上最全分类 Android 开源大全，各种都有](https://github.com/OpenFlutter/Flutter-Notebook)
 - [Android组件化开发实例](https://github.com/yangchong211/LifeHelper)
+- [强大易用的Android工具类库，几乎涵盖了所有工具类](https://github.com/Blankj/AndroidUtilCode)
 
 
 
