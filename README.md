@@ -26,6 +26,7 @@
 * 优秀博客大汇总：http://www.see-source.com/news/1818.html
 * GitHub 上受欢迎的 Android UI Library 整理一  http://www.apkbus.com/blog-982769-80146.html
 * GitHub上受欢迎的Android UI Library 整理二  http://www.apkbus.com/blog-982769-80153.html
+* Kotlin编写的MVP短视频小程序：https://github.com/git-xuhao/KotlinMvp
 
 
 
