@@ -63,7 +63,7 @@
 - [一个基于AspectJ并在此基础上扩展出来可应用于Android开发平台的AOP框架，可作用于java源码，class文件及jar包，同时支持kotlin的应用。](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)
 - [Hybrid 开发模式已不是什么新鲜的话题，不仅可以快速发布新业务，同时无需考虑 App 发版时间，支付宝出品](https://github.com/alipay/mpaas-demo)
 - [简称 "DoKit" 。一款功能齐全的客户端（ iOS 、Android、微信小程序 ）研发助手，你值得拥有](https://github.com/didi/DoraemonKit)
-- [一款强大的Android日志记录](https://github.com/tony19/logback-android)(https://github.com/JakeWharton/timber)
+- [一款强大的Android日志记录](https://github.com/tony19/logback-android)(另外一款 ：https://github.com/JakeWharton/timber)
 - [MQTT服务端开源](https://github.com/emqx/emqx)
 
 
